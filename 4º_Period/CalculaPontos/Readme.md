@@ -1,4 +1,4 @@
-Exercicio onde, dado dois pontos numa coordenada 2d, mostrar se ambos são iguais e a distância entre eles.
+Exercicio onde, dado dois pontos numa coordenada 2D, mostrar se ambos são iguais e a distância entre eles.
 Deve ser feito criando uma classe.
 
 -----
