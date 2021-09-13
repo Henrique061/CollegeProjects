@@ -1,4 +1,4 @@
-Trabalho da faculdade para desenvolver um programa onde leia um vetor com N ńúmeros inteiros
+Trabalho da faculdade para desenvolver um programa onde leia um vetor com N números inteiros
 e um valor inteiro positivo M.
 O programa deve ordenar os N números em ordem crescente do valor do seu módulo, dado pelo valor M,
 utilizando da ordenação pelo método bolha.
@@ -16,7 +16,7 @@ SAÍDA:
 
 -----
 
-College work to develop a program that reads an array with N integer values and a positive integer value M.
+College work to develop a program that reads an array with N integer values and an M positive integer value.
 The program must order the N numbers by ascending order by it's module, given by an M value,
 utilizing bubble sort.
 A tie between an odd and even values, the odd value will precede the even value.
