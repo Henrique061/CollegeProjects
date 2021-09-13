@@ -1,4 +1,4 @@
-Trabalho da faculdade onde são informados n pontos num sistemas de coordenadas 2d, tendo de
+Trabalho da faculdade onde são informados n pontos num sistema de coordenadas 2D, tendo de
 informar um ponto com a origem transladada, o quadrante de cada ponto, o ponto mais próximo e
 o mais distante da origem e a porcentagem da quantiade de pontos em cada quadrante.
 
