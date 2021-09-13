@@ -1,4 +1,4 @@
-Exercício onde deve-se contruir um programa que calcule operações de soma, multiplicação, divisão
+Exercício onde deve-se construir um programa que calcule operações de soma, multiplicação, divisão
 e igualdade entre frações.
 Deve ser feito criando uma classe.
 
